@@ -1,8 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditi Shyam Pandit</h1>
 <h3 align="center">Where Cybersecurity Meets Creativity and Code</h3>
-<img align="right" alt"coding" width="400" src="https://64.media.tumblr.com/b11f4f6315320afe01efb8414bfb3537/e450d02370232354-96/s400x600/f4689fd0731a1408405f6fc3f56367d1208b0160.gif
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=cyberangle002&label=Profile%20views&color=0e75b6&style=flat" alt="cyberangle002" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cyberangle002" alt="cyberangle002" /></a> </p>
 
